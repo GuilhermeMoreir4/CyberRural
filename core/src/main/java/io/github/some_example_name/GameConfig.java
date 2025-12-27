@@ -9,4 +9,6 @@ public class GameConfig {
     public final static float MINIMAL_GROWING_TAX_RATE = 0;
 
     public final static int PLAYER_VELOCITY = 200;
+
+    public final static int CELL_SIZE = 32;
 }
